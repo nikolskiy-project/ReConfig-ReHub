@@ -1,0 +1,142 @@
+<binds>
+        <bind key="num_0" control="fire"></bind>
+        <bind key="mouse1" control="fire"></bind>
+        <bind key="e" control="next_weapon"></bind>
+        <bind key="num_enter" control="next_weapon"></bind>
+        <bind key="mouse_wheel_down" control="next_weapon"></bind>
+        <bind key="q" control="previous_weapon"></bind>
+        <bind key="num_dec" control="previous_weapon"></bind>
+        <bind key="mouse_wheel_up" control="previous_weapon"></bind>
+        <bind key="arrow_u" control="forwards"></bind>
+        <bind key="w" control="forwards"></bind>
+        <bind key="arrow_d" control="backwards"></bind>
+        <bind key="s" control="backwards"></bind>
+        <bind key="arrow_l" control="left"></bind>
+        <bind key="a" control="left"></bind>
+        <bind key="arrow_r" control="right"></bind>
+        <bind key="d" control="right"></bind>
+        <bind key="pgup" control="zoom_in"></bind>
+        <bind key="x" control="zoom_in"></bind>
+        <bind key="mouse_wheel_up" control="zoom_in"></bind>
+        <bind key="pgdn" control="zoom_out"></bind>
+        <bind key="z" control="zoom_out"></bind>
+        <bind key="mouse_wheel_down" control="zoom_out"></bind>
+        <bind key="enter" control="enter_exit"></bind>
+        <bind key="f" control="enter_exit"></bind>
+        <bind key="v" control="change_camera"></bind>
+        <bind key="lshift" control="jump"></bind>
+        <bind key="space" control="sprint"></bind>
+        <bind key="num_1" control="look_behind"></bind>
+        <bind key="mouse3" control="look_behind"></bind>
+        <bind key="c" control="crouch"></bind>
+        <bind key="tab" control="action"></bind>
+        <bind key="lalt" control="walk"></bind>
+        <bind key="rctrl" control="vehicle_fire"></bind>
+        <bind key="lalt" control="vehicle_fire"></bind>
+        <bind key="mouse1" control="vehicle_fire"></bind>
+        <bind key="lctrl" control="vehicle_secondary_fire"></bind>
+        <bind key="num_0" control="vehicle_secondary_fire"></bind>
+        <bind key="a" control="vehicle_left"></bind>
+        <bind key="d" control="vehicle_right"></bind>
+        <bind key="arrow_u" control="steer_forward"></bind>
+        <bind key="arrow_d" control="steer_back"></bind>
+        <bind key="w" control="accelerate"></bind>
+        <bind key="s" control="brake_reverse"></bind>
+        <bind key="4" control="radio_next"></bind>
+        <bind key="mouse_wheel_up" control="radio_next"></bind>
+        <bind key="mouse_wheel_down" control="radio_previous"></bind>
+        <bind key="F5" control="radio_user_track_skip"></bind>
+        <bind key="lshift" control="horn"></bind>
+        <bind key="h" control="horn"></bind>
+        <bind key="2" control="sub_mission"></bind>
+        <bind key="num_add" control="sub_mission"></bind>
+        <bind key="space" control="handbrake"></bind>
+        <bind key="rctrl" control="handbrake"></bind>
+        <bind key="arrow_l" control="vehicle_look_left"></bind>
+        <bind key="arrow_r" control="vehicle_look_right"></bind>
+        <bind key="mouse3" control="vehicle_look_behind"></bind>
+        <bind key="mouse2" control="vehicle_mouse_look"></bind>
+        <bind key="num_4" control="special_control_left"></bind>
+        <bind key="num_6" control="special_control_right"></bind>
+        <bind key="num_2" control="special_control_down"></bind>
+        <bind key="capslock" control="aim_weapon"></bind>
+        <bind key="mouse2" control="aim_weapon"></bind>
+        <bind key="y" control="conversation_yes"></bind>
+        <bind key="n" control="conversation_no"></bind>
+        <bind key="g" control="group_control_forwards"></bind>
+        <bind key="h" control="group_control_back"></bind>
+        <bind key="mouse_wheel_down" control="sprint"></bind>
+        <bind key="joy7" control="horn"></bind>
+        <bind key="mouse_wheel_up" control="jump"></bind>
+        <bind key="g" state="down" command="enter_passenger"></bind>
+        <bind key="F12" state="down" command="screenshot"></bind>
+        <bind key="t" state="down" command="chatbox" arguments="chatboxsay"></bind>
+        <bind key="y" state="down" command="chatbox" arguments="teamsay 255 0 0"></bind>
+        <bind key="mouse4" state="down" command="radar" arguments="-1"></bind>
+        <bind key="num_add" state="down" command="radar_zoom_in"></bind>
+        <bind key="num_sub" state="down" command="radar_zoom_out"></bind>
+        <bind key="num_4" state="down" command="radar_move_west"></bind>
+        <bind key="num_0" state="down" command="radar_attach"></bind>
+        <bind key="num_div" state="down" command="radar_opacity_down"></bind>
+        <bind key="num_mul" state="down" command="radar_opacity_up"></bind>
+        <bind key="mouse5" state="down" command="voiceptt" arguments="1"></bind>
+        <bind key="mouse5" state="up" command="voiceptt" arguments="0"></bind>
+        <bind key="pgup" state="down" command="chatscrollup" arguments="1"></bind>
+        <bind key="pgup" state="up" command="chatscrollup" arguments="0"></bind>
+        <bind key="pgdn" state="down" command="chatscrolldown" arguments="-1"></bind>
+        <bind key="pgdn" state="up" command="chatscrolldown" arguments="0"></bind>
+        <bind key="pgup" state="down" command="debugscrollup" arguments="1"></bind>
+        <bind key="pgup" state="up" command="debugscrollup" arguments="0"></bind>
+        <bind key="pgdn" state="down" command="debugscrolldown" arguments="-1"></bind>
+        <bind key="pgdn" state="up" command="debugscrolldown" arguments="0"></bind>
+        <bind key="F4" state="down" command="say" arguments="Чем я Вам могу помочь?"></bind>
+        <bind key="F10" state="down" command="me" arguments='взяв пульт СГУ с приборной панели и, зажав клавишу &quot;РТТ&quot;, поднёс его ко рту'></bind>
+        <bind key="F10" state="down" command="m" arguments="Внимание! Немедленно пропустите карету СМП!"></bind>
+        <bind key="r" state="down" command="lradio"></bind>
+        <bind key="mouse5" state="down" command="say" arguments="@"></bind>
+        <bind key="," state="down" command="showcarhud"></bind>
+        <bind key="," state="down" command="showmuteicons"></bind>
+        <bind key="," state="down" command="showafktimer"></bind>
+        <bind key="," state="down" command="shownametags"></bind>
+        <bind key="," state="down" command="showchat"></bind>
+        <bind key="," state="down" command="showhud"></bind>
+        <bind key="," state="down" command="showplayerhud"></bind>
+        <bind key="F5" state="down" command="speed_limit" arguments="79"></bind>
+        <bind key="2" state="down" command="open_door"></bind>
+        <bind key="\" state="down" command="find"></bind>
+        <bind key="/" state="down" command="b" arguments="Откат |   | Приснилось | Спи моя радость - усни"></bind>
+        <bind key="num_9" state="down" command="do" arguments="По периметру автомобиля расположены камеры, ведущие постоянную съемку."></bind>
+        <bind key="num_9" state="up" command="me" arguments='нажал кнопку &quot;Сохранить&quot;, сохранив запись'></bind>
+        <bind key="home" state="down" command="logout"></bind>
+        <bind key="p" state="down" command="do" arguments='На руке надеты часы с гравировкой &quot;Кого люблю — тому известно, ведь искренне это дано не каждому&quot;.'></bind>
+        <bind key="p" state="down" command="timestamp"></bind>
+        <bind key="p" state="down" command="exptime"></bind>
+        <bind key="p" state="down" command="paytime"></bind>
+        <bind key="p" state="up" command="me" arguments="легким встряхиванием руки взглянул на часы"></bind>
+        <bind key="num_sub" state="down" command="say" arguments="1"></bind>
+        <bind key="=" state="down" command="cam"></bind>
+        <bind key="-" state="down" command="camoff"></bind>
+        <bind key="F6" state="down" command="speed_limit" arguments="59"></bind>
+        <bind key="arrow_u" state="down" command="animarmy" arguments="5"></bind>
+        <bind key="arrow_d" state="down" command="animarmy" arguments="6"></bind>
+        <bind key="arrow_l" state="down" command="animarmy" arguments="7"></bind>
+        <bind key="arrow_r" state="down" command="animarmy" arguments="8"></bind>
+        <bind key="delete" state="down" command="animarmy" arguments="3"></bind>
+        <bind key="end" state="down" command="animarmy" arguments="4"></bind>
+        <bind key="F9" state="down" command="s" arguments="Гражданин, немедленно покиньте охраняемую территорию!"></bind>
+        <bind key="F9" state="up" command="s" arguments="В случае неповиновения открываю огонь на поражение!"></bind>
+        <bind key="8" state="down" command="do" arguments="В медицинской сумке находится холодный компресс, спазмалгон, вода и эластичный бинт."></bind>
+        <bind key="8" state="down" command="todo" arguments="Сейчас облегчим Вам боль*приподняв ткань одежды у повреждённого места"></bind>
+        <bind key="8" state="up" command="me" arguments='открыв медицинскую сумку, достал медикамент &quot;Спазмалгон&quot; и передал его пациенту'></bind>
+        <bind key="9" state="down" command="todo" arguments="Подержите так компресс минуток 15*достав из медицинской сумки эластичный бинт"></bind>
+        <bind key="9" state="up" command="me" arguments="убрал холодный компресс от места растяжения и аккуратно зафиксировал его эластичным бинтом"></bind>
+        <bind key="9" state="up" command="say" arguments="Всё готово, теперь Вашему суставу нужно обеспечить полный покой и принимать обезболивающее."></bind>
+        <bind key="space" state="down" command="camera_move_acceleration" resource="province_camhunt" default="lshift"></bind>
+        <bind key=";" state="down" command="camera_roll_counterclockwise" resource="province_camhunt" default=","></bind>
+        <bind key="#" state="down" command="camera_roll_clockwise" resource="province_camhunt" default="."></bind>
+        <bind key="q" state="down" command="turnlights_onoff" arguments="left" resource="province_components" default="["></bind>
+        <bind key="e" state="down" command="turnlights_onoff" arguments="right" resource="province_components" default="]"></bind>
+        <bind key="joy6" state="down" command="turnlights_onoff" arguments="left" resource="province_components"></bind>
+        <bind key="joy5" state="down" command="turnlights_onoff" arguments="right" resource="province_components"></bind>
+        <bind key="joy8" state="down" command="taxi" resource="province_taxi"></bind>
+    </binds>
