@@ -1,15 +1,1 @@
-[
-  {
-    "id": "aecbaf990530",
-    "title": "Тест",
-    "author": "Artem_Nikolskiy",
-    "category": "Армия",
-    "description": "Просто тест",
-    "official": false,
-    "verified": true,
-    "created_at": "2026-10-07T15:27:03.402Z",
-    "approved_at": "2026-10-07T15:50:01.170Z",
-    "preview_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/aecbaf990530/preview.webp",
-    "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/aecbaf990530/config.xml"
-  }
-]
+[]
