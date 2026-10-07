@@ -1,0 +1,17 @@
+{
+  "id": "0d7a1e4ed6d2",
+  "title": "принт",
+  "author": "Artem_Nikolskiy",
+  "category": "Другое",
+  "description": "Првиарви",
+  "status": "approved",
+  "created_at": "2026-10-07T22:43:41.840Z",
+  "preview_file": "preview.webp",
+  "config_file": "config.xml",
+  "bind_count": 183,
+  "official": false,
+  "verified": true,
+  "approved_at": "2026-10-07T22:46:50.677Z",
+  "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/0d7a1e4ed6d2/config.xml",
+  "preview_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/0d7a1e4ed6d2/preview.webp"
+}
