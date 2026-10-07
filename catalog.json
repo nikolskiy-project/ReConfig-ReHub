@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "86fb8aa1e52a",
+    "title": "Hello",
+    "author": "Nick",
+    "category": "Другое",
+    "description": "Fdfs",
+    "official": false,
+    "verified": true,
+    "created_at": "2026-10-07T20:28:47.761Z",
+    "approved_at": "2026-10-07T20:30:31.604Z",
+    "preview_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/86fb8aa1e52a/preview.webp",
+    "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/86fb8aa1e52a/config.xml"
+  }
+]
