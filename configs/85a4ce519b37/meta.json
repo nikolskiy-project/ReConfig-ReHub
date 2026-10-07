@@ -1,0 +1,17 @@
+{
+  "id": "85a4ce519b37",
+  "title": "Что-то для теста",
+  "author": "Artem_Nikolskiy",
+  "category": "Другое",
+  "description": "выфв",
+  "status": "approved",
+  "created_at": "2026-10-07T19:20:10.246Z",
+  "preview_file": "preview.webp",
+  "config_file": "config.xml",
+  "bind_count": 140,
+  "official": false,
+  "verified": true,
+  "approved_at": "2026-10-07T19:20:54.543Z",
+  "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/85a4ce519b37/config.xml",
+  "preview_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/85a4ce519b37/preview.webp"
+}
