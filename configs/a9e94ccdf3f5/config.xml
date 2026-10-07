@@ -255,7 +255,7 @@
         <bind key="num_6" state="down" command="do" arguments="Рация находится в кармане."></bind>
         <bind key="num_6" state="down" command="me" arguments="взяв рацию из кармана, вызвал дежурного врача"></bind>
         <bind key="num_6" state="up" command="do" arguments="Через некоторое время пришёл врач и забрал каталку с пациентом из кареты СМП."></bind>
-        <bind key="/" state="down" command="b" arguments="Откат | ������������ ������������������������������������������������������ | Приснилось | Спи моя радость - усни"></bind>
+        <bind key="/" state="down" command="b" arguments="Откат | ������������ ������������������������������������������������������ | Приснилось | Спи моя радость - усни"></bind>
         <bind key="num_9" state="down" command="do" arguments="По периметру автомобиля расположены камеры, ведущие постоянную съемку."></bind>
         <bind key="num_9" state="up" command="me" arguments='нажал кнопку &quot;Сохранить&quot;, сохранив запись'></bind>
         <bind key="home" state="down" command="logout"></bind>

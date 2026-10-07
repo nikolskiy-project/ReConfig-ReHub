@@ -1,0 +1,16 @@
+{
+  "id": "a9e94ccdf3f5",
+  "title": "Что-то для теста",
+  "author": "Артем Никольский",
+  "category": "Другое",
+  "description": "Что-то для теста",
+  "status": "approved",
+  "created_at": "2026-10-07T18:48:55.861Z",
+  "preview_file": "preview.webp",
+  "config_file": "config.xml",
+  "official": false,
+  "verified": true,
+  "approved_at": "2026-10-07T18:50:04.858Z",
+  "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/a9e94ccdf3f5/config.xml",
+  "preview_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/a9e94ccdf3f5/preview.webp"
+}
