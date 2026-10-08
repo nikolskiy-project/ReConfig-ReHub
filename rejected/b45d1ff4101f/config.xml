@@ -93,7 +93,7 @@
         <bind key="]" state="down" command="fracvoice" arguments="2"></bind>
         <bind key="F10" state="down" command="me" arguments='взяв пульт СГУ с приборной панели и, зажав клавишу &quot;РТТ&quot;, поднёс его ко рту'></bind>
         <bind key="F10" state="down" command="m" arguments="Внимание! Немедленно пропустите карету СМП!"></bind>
-        <bind key="/" state="down" command="b" arguments="Откат | ������������  ������������������������������������������������������ | Приснилось | Спи моя радость - усни"></bind>
+        <bind key="/" state="down" command="b" arguments="Откат | ������������  ������������������������������������������������������ | Приснилось | Спи моя радость - усни"></bind>
         <bind key="r" state="down" command="lradio"></bind>
         <bind key="mouse5" state="down" command="say" arguments="@"></bind>
         <bind key="p" state="down" command="paytime"></bind>
