@@ -1,0 +1,17 @@
+{
+  "id": "351858a1a8c4",
+  "title": "пвап",
+  "author": "пвап",
+  "category": "ОКБ",
+  "description": "вап",
+  "status": "pending",
+  "created_at": "2026-10-08T10:45:59.619Z",
+  "preview_file": "preview.webp",
+  "config_file": "config.xml",
+  "config_female_file": "config_female.xml",
+  "gender_variants": [
+    "male",
+    "female"
+  ],
+  "bind_count": 183
+}
