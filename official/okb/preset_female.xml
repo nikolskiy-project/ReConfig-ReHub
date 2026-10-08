@@ -1,0 +1,81 @@
+<binds>
+    <!-- 1. Приветствие -->
+    <bind key="1" state="down" command="say" arguments="Здравствуйте, я {rank} {fio}, отделение {department}."></bind>
+    <bind key="1" state="up" command="do" arguments="На нагрудном кармане висит бейдж: {rank} | {department} | ОКБ-М | {fio}."></bind>
+    <!-- Дополнительно: -->
+
+    <!-- 2. Осмотр пациента -->
+    <bind key="3" state="down" command="say" arguments="Сейчас я Вас осмотрю. Старайтесь дышать ровно и спокойно."></bind>
+    <bind key="3" state="down" command="me" arguments="детально осмотрела пациента и поставила ему диагноз"></bind>
+
+    <!-- 3. Лечение пациента -->
+    <bind key="4" state="down" command="say" arguments="Пожалуйста, ожидайте. Я выпишу Вам заключение."></bind>
+    <bind key="4" state="down" command="do" arguments="В медицинской сумке находятся различные лекарства, бланки эпикризов и ручка."></bind>
+    <bind key="4" state="down" command="me" arguments="достала из медицинской сумки лекарство, ручку и эпикриз"></bind>
+    <bind key="4" state="up" command="me" arguments="заполнив эпикриз с историей болезни, передала его вместе с лекарством пациенту"></bind>
+    <!-- Дополнительно для /helpmed ID: -->
+
+    <!-- Отказ пациента от лечения -->
+    <bind key="6" state="down" command="say" arguments="Хорошо, отдыхайте в стационаре. Зовите, если потребуется помощь."></bind>
+
+    <!-- 4. Прощание -->
+    <bind key="5" state="up" command="say" arguments="Всего доброго, не болейте!)"></bind>
+    <bind key="5" state="up" command="timestamp" arguments=""></bind>
+
+    <!-- 5. Самолечение -->
+    <bind key="7" state="down" command="do" arguments="В медицинской сумке находятся все необходимые для лечения препараты."></bind>
+    <bind key="7" state="down" command="me" arguments="открыв медицинскую сумку, взяла спрей, брызнула им в нос и вернула на место в сумку, после чего закрыла её"></bind>
+
+    <!-- 6. Принятие вызова -->
+    <bind key="num_5" state="down" command="do" arguments="В медицинской сумке находится КПК."></bind>
+    <bind key="num_5" state="down" command="me" arguments="открыв медицинскую сумку, достала КПК и включила его"></bind>
+    <bind key="num_5" state="up" command="do" arguments="На КПК высветилось уведомление о вызове."></bind>
+    <bind key="num_5" state="up" command="chatbox" arguments="to"></bind>
+    <bind key="num_5" state="up" command="me" arguments="нажала на кнопку в КПК &quot;Принять вызов&quot; и, выключив, убрала в медицинскую сумку"></bind>
+
+    <!-- 7. Первая медицинская помощь -->
+    <bind key="num_7" state="down" command="do" arguments="В медицинской сумке находятся катетер, пластырь, физраствор и противошоковая ампула."></bind>
+    <bind key="num_7" state="down" command="me" arguments="открыв медицинскую сумку, достала оттуда всё необходимое и подготовила к работе"></bind>
+    <bind key="num_7" state="up" command="me" arguments="установила катетер, закрепила его пластырем, подключила капельницу и ввела препараты"></bind>
+    <bind key="num_7" state="up" command="do" arguments="Жизненные показатели пациента стабилизировались для транспортировки?"></bind>
+    <bind key="num_7" state="up" command="b" arguments="Ответ в /do Да. /do Нет."></bind>
+
+    <!-- Экстренная кислородная и медикаментозная поддержка -->
+    <bind key="num_8" state="down" command="do" arguments="В медицинской сумке лежит кислородная маска и ампула адреналина."></bind>
+    <bind key="num_8" state="down" command="me" arguments="достав кислородную маску, надела её на лицо пациента и открыла подачу кислорода"></bind>
+    <bind key="num_8" state="up" command="me" arguments="достав ампулу адреналина, быстро ввела препарат через уже установленный катетер"></bind>
+    <bind key="num_8" state="up" command="do" arguments="Состояние пациента искусственно поддерживается медикаментами и кислородом."></bind>
+
+    <!-- 8. Взаимодействие с каталкой -->
+
+    <!-- Выкатывание каталки -->
+    <bind key="num_1" state="down" command="me" arguments="сняв фиксатор, достала каталку из кареты СМП"></bind>
+    <bind key="num_1" state="up" command="me" arguments="нажала на рычажок для опускания каталки"></bind>
+    <bind key="num_1" state="down" command="getcouch" arguments=""></bind>
+
+    <!-- Перекладывание пациента на каталку -->
+    <bind key="num_2" state="down" command="me" arguments="аккуратно приподняла человека и переложила его на каталку"></bind>
+    <bind key="num_2" state="up" command="me" arguments="нажала на рычажок для поднятия каталки"></bind>
+    <bind key="num_2" state="down" command="loadcouch" arguments=""></bind>
+
+    <!-- Заталкивание каталки обратно -->
+    <bind key="num_3" state="down" command="me" arguments="закатила каталку в карету СМП и зафиксировала её"></bind>
+    <bind key="num_3" state="down" command="getcouch" arguments=""></bind>
+
+    <!-- Госпитализация пациента -->
+    <bind key="num_6" state="down" command="do" arguments="Рация находится в кармане."></bind>
+    <bind key="num_6" state="down" command="me" arguments="взяв рацию из кармана, вызвала дежурного врача"></bind>
+    <bind key="num_6" state="up" command="do" arguments="Через некоторое время пришёл врач и забрал каталку с пациентом из кареты СМП."></bind>
+
+    <!-- 9. Использование рации -->
+    <bind key="[" state="down" command="do" arguments="Рация закреплена на форме сотрудника."></bind>
+    <bind key="[" state="down" command="me" arguments="сняв рацию с формы, поднесла её ко рту"></bind>
+    <bind key="[" state="up" command="fracvoice" arguments="1"></bind>
+    <bind key="]" state="down" command="me" arguments="закрепила рацию на форме"></bind>
+    <bind key="]" state="down" command="fracvoice" arguments="2"></bind>
+
+    <!-- 10. Использование мегафона -->
+    <bind key="f10" state="down" command="me" arguments="взяв пульт СГУ с приборной панели и, зажав клавишу &quot;РТТ&quot;, поднесла его ко рту"></bind>
+    <bind key="f10" state="down" command="m" arguments="Внимание! Немедленно пропустите карету СМП!"></bind>
+    <bind key="f10" state="down" command="me" arguments="отжала клавишу &quot;РТТ&quot; и закрепила пульт СГУ на приборной панели"></bind>
+</binds>

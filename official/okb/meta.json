@@ -1,0 +1,21 @@
+{
+  "id": "official-okb",
+  "slot": "okb",
+  "title": "ОКБ г. Мирный",
+  "author": "ReConfig Province",
+  "category": "ОКБ",
+  "description": "**Бинды для сотрудников ОКБ г. Мирный**    Специально разработанный набор RP-биндов для сотрудников ОКБ, охватывающий основные рабочие процессы: от приветствия и осмотра пациентов до оказания медицинской помощи, госпитализации и использования служебного оборудования.    Бинды созданы **исключительно для ОКБ г. Мирный** с учётом специфики работы организации. Предусмотрены отдельные версии для мужских и женских персонажей.    **Обратите внимание:** команды `/helpmed`, `/loadcouch`, а также функциональная фраза «Чем могу помочь?» намеренно не включены в основной набор. При необходимости их можно ",
+  "status": "approved",
+  "official": true,
+  "verified": true,
+  "pinned": true,
+  "created_at": "2026-10-08T09:40:13.448Z",
+  "updated_at": "2026-10-08T09:40:13.448Z",
+  "config_file": "config.xml",
+  "preview_file": null,
+  "preset_male_file": "preset_male.xml",
+  "preset_female_file": "preset_female.xml",
+  "bind_count": 46,
+  "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/official/okb/config.xml",
+  "preview_url": null
+}
