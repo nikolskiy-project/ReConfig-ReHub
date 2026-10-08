@@ -1,0 +1,16 @@
+{
+  "id": "581660ca4db6",
+  "title": "Чтото",
+  "author": "Авав",
+  "category": "Другое",
+  "description": "## Бинды для реальных пацанов \n**чтобы все было `четко`**",
+  "status": "pending",
+  "created_at": "2026-10-08T13:07:24.519Z",
+  "preview_file": "preview.webp",
+  "config_file": "config.xml",
+  "config_female_file": null,
+  "gender_variants": [
+    "male"
+  ],
+  "bind_count": 183
+}
