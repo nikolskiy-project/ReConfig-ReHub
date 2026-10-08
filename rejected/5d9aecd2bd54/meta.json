@@ -4,7 +4,7 @@
   "author": "Ава",
   "category": "ОКБ",
   "description": "аыва",
-  "status": "pending",
+  "status": "rejected",
   "created_at": "2026-10-08T10:21:02.827Z",
   "preview_file": null,
   "config_file": "config.xml",
@@ -12,5 +12,7 @@
   "gender_variants": [
     "male"
   ],
-  "bind_count": 183
+  "bind_count": 183,
+  "rejected_at": "2026-10-08T10:25:15.578Z",
+  "rejection_reason": "выаы"
 }
