@@ -18,21 +18,5 @@
     ],
     "preview_url": null,
     "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/official/okb/config.xml"
-  },
-  {
-    "id": "49b769841e24",
-    "title": "авпва",
-    "author": "павпва",
-    "category": "ОКБ",
-    "description": "папвапв",
-    "official": false,
-    "verified": true,
-    "created_at": "2026-10-08T10:32:53.277Z",
-    "approved_at": "2026-10-08T10:33:17.056Z",
-    "preview_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/49b769841e24/preview.webp",
-    "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/49b769841e24/config.xml",
-    "gender_variants": [
-      "female"
-    ]
   }
 ]
