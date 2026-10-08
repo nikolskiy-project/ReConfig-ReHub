@@ -1,0 +1,17 @@
+{
+  "id": "d108566ab20f",
+  "title": "исми",
+  "author": "имсис",
+  "category": "Другое",
+  "description": "исми",
+  "status": "pending",
+  "created_at": "2026-10-08T09:59:07.452Z",
+  "preview_file": null,
+  "config_file": "config.xml",
+  "config_female_file": "config_female.xml",
+  "gender_variants": [
+    "male",
+    "female"
+  ],
+  "bind_count": 183
+}
