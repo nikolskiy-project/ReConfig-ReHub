@@ -1,0 +1,16 @@
+{
+  "id": "49b769841e24",
+  "title": "авпва",
+  "author": "павпва",
+  "category": "ОКБ",
+  "description": "папвапв",
+  "status": "pending",
+  "created_at": "2026-10-08T10:32:53.277Z",
+  "preview_file": "preview.webp",
+  "config_file": "config.xml",
+  "config_female_file": null,
+  "gender_variants": [
+    "female"
+  ],
+  "bind_count": 151
+}
