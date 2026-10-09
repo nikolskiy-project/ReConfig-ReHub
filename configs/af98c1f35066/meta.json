@@ -4,7 +4,7 @@
   "author": "eqweqwe",
   "category": "ОКБ",
   "description": "**eqweqweQ*курсив***",
-  "status": "pending",
+  "status": "approved",
   "created_at": "2026-10-09T08:48:28.841Z",
   "preview_file": null,
   "config_file": "config.xml",
@@ -12,5 +12,10 @@
   "gender_variants": [
     "male"
   ],
-  "bind_count": 183
+  "bind_count": 183,
+  "official": false,
+  "verified": true,
+  "approved_at": "2026-10-09T08:52:31.745Z",
+  "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/af98c1f35066/config.xml",
+  "preview_url": null
 }
