@@ -1,0 +1,18 @@
+{
+  "id": "5664db06c0ab",
+  "title": "Тест",
+  "author": "Artem_Nikolskiy",
+  "author_user_id": "03dcff3d-6bcf-4799-ad0b-282ed2861ae3",
+  "author_username": "Artem_Nikolskiy",
+  "category": "ОКБ",
+  "description": "вфыв",
+  "status": "pending",
+  "created_at": "2026-10-13T14:13:46.691Z",
+  "preview_file": null,
+  "config_file": "config.xml",
+  "config_female_file": null,
+  "gender_variants": [
+    "male"
+  ],
+  "bind_count": 183
+}
