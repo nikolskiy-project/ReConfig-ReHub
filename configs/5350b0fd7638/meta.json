@@ -6,7 +6,7 @@
   "author_username": "Artem_Nikolskiy",
   "category": "ОКБ",
   "description": "dasdsad",
-  "status": "pending",
+  "status": "approved",
   "created_at": "2026-10-13T14:31:47.744Z",
   "preview_file": "preview.webp",
   "config_file": "config.xml",
@@ -14,5 +14,10 @@
   "gender_variants": [
     "male"
   ],
-  "bind_count": 183
+  "bind_count": 183,
+  "official": false,
+  "verified": true,
+  "approved_at": "2026-10-13T14:32:28.452Z",
+  "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/5350b0fd7638/config.xml",
+  "preview_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/5350b0fd7638/preview.webp"
 }
