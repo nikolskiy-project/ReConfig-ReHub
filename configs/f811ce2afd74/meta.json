@@ -6,7 +6,7 @@
   "author_username": "Kead_ik",
   "category": "УВД",
   "description": "пвапвап",
-  "status": "pending",
+  "status": "approved",
   "created_at": "2026-10-13T09:40:46.848Z",
   "preview_file": null,
   "config_file": "config.xml",
@@ -14,5 +14,10 @@
   "gender_variants": [
     "male"
   ],
-  "bind_count": 151
+  "bind_count": 151,
+  "official": false,
+  "verified": true,
+  "approved_at": "2026-10-13T09:42:48.762Z",
+  "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/f811ce2afd74/config.xml",
+  "preview_url": null
 }
