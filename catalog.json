@@ -1,5 +1,23 @@
 [
   {
+    "id": "5664db06c0ab",
+    "title": "Тест",
+    "author": "Artem_Nikolskiy",
+    "author_user_id": "03dcff3d-6bcf-4799-ad0b-282ed2861ae3",
+    "author_username": "Artem_Nikolskiy",
+    "category": "ОКБ",
+    "description": "вфыв",
+    "official": false,
+    "verified": true,
+    "created_at": "2026-10-13T14:13:46.691Z",
+    "approved_at": "2026-10-13T14:30:53.403Z",
+    "preview_url": null,
+    "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/5664db06c0ab/config.xml",
+    "gender_variants": [
+      "male"
+    ]
+  },
+  {
     "id": "official-okb",
     "slot": "okb",
     "title": "ОКБ г. Мирный",
