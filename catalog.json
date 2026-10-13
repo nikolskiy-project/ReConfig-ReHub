@@ -1,18 +1,18 @@
 [
   {
-    "id": "432f7685233a",
-    "title": "ГИБДД",
+    "id": "f811ce2afd74",
+    "title": "павпвап",
     "author": "Kead_ik",
     "author_user_id": "c0e493ec-f85f-43ec-a57b-722eee3c510f",
     "author_username": "Kead_ik",
-    "category": "ГИБДД",
-    "description": "апвапвап",
+    "category": "УВД",
+    "description": "пвапвап",
     "official": false,
     "verified": true,
-    "created_at": "2026-10-13T09:41:08.061Z",
-    "approved_at": "2026-10-13T09:43:21.336Z",
+    "created_at": "2026-10-13T09:40:46.848Z",
+    "approved_at": "2026-10-13T09:42:48.762Z",
     "preview_url": null,
-    "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/432f7685233a/config.xml",
+    "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/f811ce2afd74/config.xml",
     "gender_variants": [
       "male"
     ]
@@ -31,24 +31,6 @@
     "approved_at": "2026-10-13T09:42:39.858Z",
     "preview_url": null,
     "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/f5d45e7957d3/config.xml",
-    "gender_variants": [
-      "male"
-    ]
-  },
-  {
-    "id": "8da9904d2543",
-    "title": "пвапвап",
-    "author": "Kead_ik",
-    "author_user_id": "c0e493ec-f85f-43ec-a57b-722eee3c510f",
-    "author_username": "Kead_ik",
-    "category": "ОКБ",
-    "description": "пвапва",
-    "official": false,
-    "verified": true,
-    "created_at": "2026-10-13T09:38:20.520Z",
-    "approved_at": "2026-10-13T09:39:01.825Z",
-    "preview_url": null,
-    "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/8da9904d2543/config.xml",
     "gender_variants": [
       "male"
     ]
