@@ -6,7 +6,7 @@
   "author_username": "Kead_ik",
   "category": "ОКБ",
   "description": "вфы",
-  "status": "pending",
+  "status": "rejected",
   "created_at": "2026-10-13T09:28:55.548Z",
   "preview_file": null,
   "config_file": "config.xml",
@@ -14,5 +14,7 @@
   "gender_variants": [
     "male"
   ],
-  "bind_count": 151
+  "bind_count": 151,
+  "rejected_at": "2026-10-13T09:30:22.536Z",
+  "rejection_reason": "Вред"
 }
