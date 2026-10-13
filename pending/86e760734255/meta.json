@@ -1,0 +1,18 @@
+{
+  "id": "86e760734255",
+  "title": "dasd",
+  "author": "Artem_Nikolskiy",
+  "author_user_id": "73be2b97-c648-4fea-9f25-f3dfd13b1de5",
+  "author_username": "Artem_Nikolskiy",
+  "category": "ОКБ",
+  "description": "dasdas",
+  "status": "pending",
+  "created_at": "2026-10-13T12:43:56.114Z",
+  "preview_file": null,
+  "config_file": "config.xml",
+  "config_female_file": null,
+  "gender_variants": [
+    "male"
+  ],
+  "bind_count": 199
+}
