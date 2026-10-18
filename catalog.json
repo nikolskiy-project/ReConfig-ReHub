@@ -1,5 +1,23 @@
 [
   {
+    "id": "3d47bf1ceb0a",
+    "title": "Для Моники",
+    "author": "Artem_Nikolskiy",
+    "author_user_id": "03dcff3d-6bcf-4799-ad0b-282ed2861ae3",
+    "author_username": "Artem_Nikolskiy",
+    "category": "ГИБДД",
+    "description": "**Надо** скачать `просто`",
+    "official": false,
+    "verified": true,
+    "created_at": "2026-10-18T18:16:43.565Z",
+    "approved_at": "2026-10-18T18:17:05.994Z",
+    "preview_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/3d47bf1ceb0a/preview.webp",
+    "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/3d47bf1ceb0a/config.xml",
+    "gender_variants": [
+      "female"
+    ]
+  },
+  {
     "id": "official-okb",
     "slot": "okb",
     "title": "ОКБ г. Мирный",
