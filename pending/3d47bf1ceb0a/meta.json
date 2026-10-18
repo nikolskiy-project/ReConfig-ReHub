@@ -1,0 +1,18 @@
+{
+  "id": "3d47bf1ceb0a",
+  "title": "Для Моники",
+  "author": "Artem_Nikolskiy",
+  "author_user_id": "03dcff3d-6bcf-4799-ad0b-282ed2861ae3",
+  "author_username": "Artem_Nikolskiy",
+  "category": "ГИБДД",
+  "description": "**Надо** скачать `просто`",
+  "status": "pending",
+  "created_at": "2026-10-18T18:16:43.565Z",
+  "preview_file": "preview.webp",
+  "config_file": "config.xml",
+  "config_female_file": null,
+  "gender_variants": [
+    "female"
+  ],
+  "bind_count": 176
+}
