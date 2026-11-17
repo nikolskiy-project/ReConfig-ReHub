@@ -1,0 +1,18 @@
+{
+  "id": "68aa4e06243c",
+  "title": "Для принцессі",
+  "author": "Artem_Nikolskiy",
+  "author_user_id": "03dcff3d-6bcf-4799-ad0b-282ed2861ae3",
+  "author_username": "Artem_Nikolskiy",
+  "category": "ОКБ",
+  "description": "**Так**",
+  "status": "pending",
+  "created_at": "2026-11-17T14:30:47.384Z",
+  "preview_file": null,
+  "config_file": "config.xml",
+  "config_female_file": null,
+  "gender_variants": [
+    "female"
+  ],
+  "bind_count": 176
+}
