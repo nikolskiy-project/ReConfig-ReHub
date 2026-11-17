@@ -1,5 +1,23 @@
 [
   {
+    "id": "da277b52d45f",
+    "title": "Для принцессы",
+    "author": "Artem_Nikolskiy",
+    "author_user_id": "03dcff3d-6bcf-4799-ad0b-282ed2861ae3",
+    "author_username": "Artem_Nikolskiy",
+    "category": "ОКБ",
+    "description": "`**Любимой**`",
+    "official": false,
+    "verified": true,
+    "created_at": "2026-11-17T14:33:07.377Z",
+    "approved_at": "2026-11-17T14:33:21.523Z",
+    "preview_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/da277b52d45f/preview.webp",
+    "download_url": "https://raw.githubusercontent.com/nikolskiy-project/ReConfig-ReHub/main/configs/da277b52d45f/config.xml",
+    "gender_variants": [
+      "male"
+    ]
+  },
+  {
     "id": "68aa4e06243c",
     "title": "Для принцессі",
     "author": "Artem_Nikolskiy",
